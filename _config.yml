@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.2185821
+  brandStrength: 0.560905
+  lightness: 0.3979592
+  rhythmicContrast: 0.6772288
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+typography_spectrum: 0.4076262
+name: Jonathan Taylor Owen
