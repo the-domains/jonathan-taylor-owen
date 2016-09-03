@@ -1,14 +1,28 @@
-layout_spectrum: 0
-color:
-  saturation: 0.2185821
-  brandStrength: 0.560905
-  lightness: 0.3979592
-  rhythmicContrast: 0.6772288
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-typography_spectrum: 0.4076262
 name: Jonathan Taylor Owen
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.4076262
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#fefefe'
+    - '#4c4b49'
+    - '#131313'
+    - '#d9d9d9'
+    - '#9c9c9c'
+  brandStrength: 0.75
+  lightness: 0.3125
+  saturation: 0.125
+  rhythmicContrast: 0.75
+purpose: []
